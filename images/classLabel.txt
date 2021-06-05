@@ -1,2 +1,4 @@
 Car
 TrafficLight
+SpeedLimit
+Person
