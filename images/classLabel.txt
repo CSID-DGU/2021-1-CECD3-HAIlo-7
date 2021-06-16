@@ -1,5 +1,6 @@
 Car
 Person
+Traffic Sign
 RedTrafficLight
 YellowTrafficLight
 GreenTrafficLight
@@ -12,3 +13,4 @@ YellowDottedLine
 YellowSolidLine
 BlueDottedLine
 BlueSolidLine
+
