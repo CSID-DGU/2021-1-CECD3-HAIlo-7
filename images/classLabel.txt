@@ -1,4 +1,4 @@
 Car
+Person
 TrafficLight
 SpeedLimit
-Person
