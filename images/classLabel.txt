@@ -1,4 +1,14 @@
 Car
 Person
-TrafficLight
+RedTrafficLight
+YellowTrafficLight
+GreenTrafficLight
 SpeedLimit
+Bus
+Bicycle
+WhiteDottedLine
+WhiteSolidLine
+YellowDottedLine
+YellowSolidLine
+BlueDottedLine
+BlueSolidLine
