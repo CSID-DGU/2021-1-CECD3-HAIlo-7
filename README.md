@@ -27,6 +27,7 @@
 2. 객체를 탐지할 대상 영상 데이터(이미지 및 동영상) 입력 가능
 3. 수집된 이미지와 메타 데이터 제공 (bounding box annotation 정보)
 4. Image Augmentation 기능 선택 가능
+<br>
 
 ## 예상 결과물
 ### 제공 객체 클래스
