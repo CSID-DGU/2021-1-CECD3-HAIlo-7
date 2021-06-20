@@ -29,6 +29,12 @@
 4. Image Augmentation 기능 선택 가능
 <br>
 
+## 개발 환경
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<br>
+
 ## 예상 결과물
 ### 제공 객체 클래스
 ![image](https://user-images.githubusercontent.com/48276490/122640272-a5cdc880-d139-11eb-9652-6374a309dc2b.png)
